@@ -72,7 +72,7 @@ O objetivo deste projeto é desenvolver um gravador e reprodutor de áudio utili
 
 <center>
 
-[![Vídeo do Projeto](https://img.youtube.com/vi/tMY6fcm6D1A/hqdefault.jpg)](https://youtube.com/shorts/tMY6fcm6D1A?feature=share)
+[![Vídeo do Projeto](https://img.youtube.com/vi/tMY6fcm6D1A/hqdefault.jpg)](https://youtube.com/watch?v=tMY6fcm6D1A)
 
 </center>
 
